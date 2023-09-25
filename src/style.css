@@ -1,0 +1,220 @@
+nav .container-fluid .navbar-brand {
+  font-family: "Pacifico", cursive;
+  font-size: larger;
+}
+
+nav .cross-icon {
+  background-color: white;
+}
+
+nav .donate {
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 7px 10px;
+  border-radius: 5px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+nav .donate:hover {
+  cursor: pointer;
+  background-color: #213854;
+  color: white;
+}
+
+p {
+  font-size: 17px;
+  font-weight: 600;
+  color: black;
+  font-family: "Merriweather", serif;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 45px;
+  color: rgb(27, 27, 27);
+}
+
+.header-section img {
+  max-width: auto;
+}
+
+.header-section img:hover {
+  filter: grayscale(70%);
+}
+
+.header-section h1 {
+  font-family: "Linden Hill", serif;
+  font-size: 28px;
+}
+
+.header-section .sea-of-galilee {
+  border-radius: 2% 5% 65% 30%;
+}
+
+.travel-icon-section {
+  padding: 25px 120px;
+}
+
+.travel-icon-section h6 {
+  font-family: "Merriweather", serif;
+}
+
+.travel-icon {
+  padding: 20px;
+  background-color: #e9ecef;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.featured-blog-section .blog:hover {
+  background-color: #e9ecef;
+}
+
+.featured-blog-section img {
+  border-radius: 10px;
+}
+
+.featured-blog-section .blog img:hover {
+  transform: scale(1.075);
+}
+
+.featured-blog-section h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+.missionary-trip {
+  border-radius: 50%;
+}
+
+.travel-places-section {
+  margin: 20px;
+  font-family: "Linden Hill", serif;
+}
+
+.travel-places-section h5 {
+  font-size: 17px;
+}
+
+.place-words {
+  margin: 10px;
+  background-color: #e9ecef;
+  color: black;
+  border-radius: 10px;
+  font-weight: 500;
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+}
+
+.place-words:hover {
+  background-color: #437dd4;
+  color: white;
+  cursor: pointer;
+}
+
+.donate-button {
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: "Merriweather", serif;
+}
+
+.donate-button:hover {
+  cursor: pointer;
+  background-color: #0b5ed7;
+  color: white;
+}
+
+.donate-section h2 {
+  font-size: 35px;
+}
+
+.images-of-places-visited-section {
+  background-color: #e9ecef;
+}
+
+.images-of-places-visited-section .left-arrow {
+  background-color: white;
+  padding: 15px;
+  border-radius: 50%;
+  width: 50px;
+  position: absolute;
+  left: 30px;
+  top: 252px;
+  box-shadow: 10px black;
+}
+
+.images-of-places-visited-section .right-arrow {
+  background-color: white;
+  padding: 15px;
+  border-radius: 50%;
+  width: 50px;
+  position: absolute;
+  right: 30px;
+  top: 253px;
+  box-shadow: 10px black;
+}
+
+.place-img:hover {
+  padding: 20px;
+}
+
+.images-of-places-visited-section .card-img {
+  max-width: 700px;
+}
+
+.blog-image-section {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.blog-section {
+  width: 550px;
+  height: 750px;
+  overflow: scroll;
+  padding: 10px;
+}
+
+.blog-section .blog:hover {
+  background-color: #e9ecef;
+  cursor: pointer;
+}
+
+.blog-image-section h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+}
+
+.about-pic {
+  border-radius: 50%;
+}
+
+.about-section h2 {
+  font-family: "DM Serif Display", serif;
+}
+
+.about-section h3 {
+  font-size: 30px;
+  font-family: "Dancing Script", cursive;
+}
+
+.about-section p {
+  font-weight: 500;
+}
+
+footer {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+footer span .up-to-the-top-arrow {
+  position: fixed;
+  bottom: 40px;
+  right: 50px;
+}
