@@ -218,3 +218,7 @@ footer span .up-to-the-top-arrow {
   bottom: 40px;
   right: 50px;
 }
+
+.github-link {
+  text-decoration: none;
+}
