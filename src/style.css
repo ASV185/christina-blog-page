@@ -219,6 +219,11 @@ footer span .up-to-the-top-arrow {
   right: 50px;
 }
 
+.instagram-link {
+  text-decoration: none;
+  color: rgb(27, 27, 27);
+}
+
 .github-link {
   text-decoration: none;
 }
