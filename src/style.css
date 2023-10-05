@@ -236,3 +236,7 @@ footer span .up-to-the-top-arrow {
 .gallery-section {
   margin: 50px 75px;
 }
+
+.gallery-section .trip-img {
+  margin: 10px;
+}
