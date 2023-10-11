@@ -1,6 +1,7 @@
 nav .container-fluid .navbar-brand {
   font-family: "Pacifico", cursive;
   font-size: larger;
+  color: white;
 }
 
 nav .cross-icon {
@@ -42,7 +43,7 @@ h2 {
 }
 
 .header-section img {
-  max-width: auto;
+  max-width: 100%;
 }
 
 .header-section img:hover {
