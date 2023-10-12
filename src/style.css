@@ -241,3 +241,39 @@ footer span .up-to-the-top-arrow {
 .gallery-section .trip-img {
   margin: 10px;
 }
+
+@media (max-width: 768px) {
+  .images-of-places-visited-section {
+    display: none;
+  }
+
+  .travel-icon-section {
+    display: none;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .header-section .header-img {
+    display: none;
+  }
+
+  .header-section .header-paragraph {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .donate-section .self-img {
+    max-width: 95%;
+    max-height: 65%;
+    margin: 0;
+  }
+
+  .donate-section .donate-paragraph-section {
+    margin: 0;
+  }
+
+  .blog-image-section .places-visit-image {
+    display: none;
+  }
+}
