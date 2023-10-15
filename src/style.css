@@ -286,3 +286,18 @@ footer span .up-to-the-top-arrow {
     display: none;
   }
 }
+
+@media (min-height: 991.98px) and (max-height: 1199.98px) {
+  .donate-img-section {
+    display: none;
+  }
+
+  .donate-section .donate-paragraph-section {
+    text-align: center;
+    margin: 0;
+  }
+
+  .images-of-places-visited-section {
+    display: none;
+  }
+}
