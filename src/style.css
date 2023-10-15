@@ -140,6 +140,10 @@ h2 {
   font-size: 35px;
 }
 
+.donate-section img {
+  border-radius: 20px;
+}
+
 .images-of-places-visited-section {
   background-color: #e9ecef;
 }
@@ -246,9 +250,6 @@ footer span .up-to-the-top-arrow {
   .header-section .added-paragraph {
     display: none;
   }
-  .images-of-places-visited-section {
-    display: none;
-  }
 
   .travel-icon-section {
     display: none;
@@ -280,6 +281,10 @@ footer span .up-to-the-top-arrow {
 
   .donate-section .donate-paragraph-section {
     margin: 0;
+  }
+
+  .images-of-places-visited-section {
+    display: none;
   }
 
   .blog-image-section .places-visit-image {
