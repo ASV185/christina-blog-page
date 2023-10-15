@@ -218,6 +218,10 @@ h2 {
   font-weight: 500;
 }
 
+.about-section .social-media {
+  font-size: 20px;
+}
+
 footer {
   font-family: "Poppins", sans-serif;
   text-align: center;
@@ -273,13 +277,12 @@ footer span .up-to-the-top-arrow {
     margin: 0;
   }
 
-  .donate-section .self-img {
-    max-width: 95%;
-    max-height: 65%;
-    margin: 0;
+  .donate-img-section {
+    display: none;
   }
 
   .donate-section .donate-paragraph-section {
+    text-align: center;
     margin: 0;
   }
 
