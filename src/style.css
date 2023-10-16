@@ -42,6 +42,11 @@ h2 {
   color: rgb(27, 27, 27);
 }
 
+.header-section .header-paragraph .main-header-paragraph-section {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
 .header-section img {
   max-width: 100%;
 }
@@ -270,6 +275,10 @@ footer span .up-to-the-top-arrow {
   .header-section .header-paragraph {
     text-align: center;
     padding: 0;
+    margin: 0;
+  }
+
+  .header-section .header-paragraph .main-header-paragraph-section {
     margin: 0;
   }
 
