@@ -187,6 +187,7 @@ h2 {
   border: 1px solid black;
   border-radius: 10px;
   padding: 40px;
+  margin: 25px;
 }
 
 .blog-section {
@@ -225,6 +226,11 @@ h2 {
 
 .about-section .social-media {
   font-size: 20px;
+}
+
+.about-section .contact-section {
+  padding: 15px;
+  padding-bottom: 30px;
 }
 
 footer {
@@ -301,6 +307,30 @@ footer span .up-to-the-top-arrow {
 
   .blog-image-section .places-visit-image {
     display: none;
+  }
+
+  .about-section img {
+    margin: 20px;
+  }
+
+  .about-section .social-media {
+    margin: 0;
+    padding: 0;
+  }
+
+  .about-section h4 {
+    padding: 0;
+    margin: 0;
+  }
+
+  .about-section .email {
+    padding: 0;
+    margin: 0;
+  }
+
+  .about-section .instagram {
+    padding: 0;
+    margin: 0;
   }
 }
 
