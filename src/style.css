@@ -124,27 +124,6 @@ h2 {
   cursor: pointer;
 }
 
-.donate-button {
-  border: none;
-  background-color: white;
-  color: black;
-  padding: 10px 15px;
-  border-radius: 10px;
-  font-weight: 600;
-  text-decoration: none;
-  font-family: "Merriweather", serif;
-}
-
-.donate-button:hover {
-  cursor: pointer;
-  background-color: #0b5ed7;
-  color: white;
-}
-
-.donate-section h2 {
-  font-size: 35px;
-}
-
 .donate-section img {
   border-radius: 20px;
 }
@@ -262,10 +241,6 @@ footer span .up-to-the-top-arrow {
 }
 
 @media (max-width: 768px) {
-  .header-section .added-paragraph {
-    display: none;
-  }
-
   .travel-icon-section {
     display: none;
   }
