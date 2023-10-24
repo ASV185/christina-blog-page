@@ -1,17 +1,22 @@
+:root {
+  --primary-color: black;
+  --secondary-color: #e9ecef;
+}
+
 nav .container-fluid .navbar-brand {
   font-family: "Pacifico", cursive;
   font-size: larger;
-  color: white;
+  color: var(--secondary-color);
 }
 
 nav .cross-icon {
-  background-color: white;
+  background-color: var(--secondary-color);
 }
 
 p {
   font-size: 17px;
   font-weight: 600;
-  color: black;
+  color: var(--primary-color);
   font-family: "Merriweather", serif;
 }
 
@@ -92,32 +97,16 @@ h2 {
   font-size: 17px;
 }
 
-.place-words {
-  margin: 10px;
-  background-color: #e9ecef;
-  color: black;
-  border-radius: 10px;
-  font-weight: 500;
-  font-family: "Merriweather", serif;
-  font-weight: 600;
-}
-
-.place-words:hover {
-  background-color: #437dd4;
-  color: white;
-  cursor: pointer;
-}
-
 .donate-section img {
   border-radius: 20px;
 }
 
 .images-of-places-visited-section {
-  background-color: #e9ecef;
+  background-color: var(--secondary-color);
 }
 
 .images-of-places-visited-section .left-arrow {
-  background-color: white;
+  background-color: var(--secondary-color);
   padding: 15px;
   border-radius: 50%;
   width: 50px;
@@ -128,14 +117,14 @@ h2 {
 }
 
 .images-of-places-visited-section .right-arrow {
-  background-color: white;
+  background-color: var(--secondary-color);
   padding: 15px;
   border-radius: 50%;
   width: 50px;
   position: absolute;
   right: 30px;
   top: 190px;
-  box-shadow: 10px black;
+  box-shadow: 10px --primary-color;
 }
 
 .place-img:hover {
@@ -147,7 +136,7 @@ h2 {
 }
 
 .blog-image-section {
-  border: 1px solid black;
+  border: 1px solid --primary-color;
   border-radius: 10px;
   padding: 40px;
   margin: 25px;
@@ -161,7 +150,7 @@ h2 {
 }
 
 .blog-section .blog:hover {
-  background-color: #e9ecef;
+  background-color: var(--secondary-color);
   cursor: pointer;
 }
 
