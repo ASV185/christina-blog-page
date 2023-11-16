@@ -213,28 +213,52 @@ footer span .up-to-the-top-arrow {
   margin: 10px;
 }
 
+.blog-header .main-navbar .nav-link {
+  font-size: 17px;
+  margin: 7px;
+  font-weight: 500;
+}
+
+.blog-header .main-navbar .nav-item:hover {
+  border-left: 3px solid #0a58ca;
+  color: var(--primary-color);
+}
+
 .blog-header h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 70px;
   font-weight: 800;
   opacity: 0.9;
+  margin-top: 30px;
 }
 
 .blog-header h2 {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .blog-header h3 {
   font-family: "Noto Sans", sans-serif;
   font-weight: 400;
-  font-size: 30px;
+  font-size: 25px;
 }
 
-.author-photo-section {
-  margin-left: 390px;
-  margin-right: 390px;
+.blog-article p {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+  margin-bottom: 0;
+  padding: 0;
+  margin-top: 0;
+}
+
+.rows p {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
