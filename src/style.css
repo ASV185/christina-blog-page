@@ -217,6 +217,8 @@ footer span .up-to-the-top-arrow {
   font-size: 17px;
   margin: 7px;
   font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
 }
 
 .blog-header .main-navbar .nav-item:hover {
@@ -259,6 +261,10 @@ footer span .up-to-the-top-arrow {
   margin-left: 100px;
   margin-right: 100px;
   margin-bottom: 20px;
+}
+
+footer .blog-footer {
+  font-family: "Ubuntu", sans-serif;
 }
 
 @media (max-width: 768px) {
