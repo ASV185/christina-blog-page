@@ -271,6 +271,11 @@ footer .blog-footer {
   .travel-icon-section {
     display: none;
   }
+
+  .blog-article p {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
 
 @media (max-width: 991.98px) {
