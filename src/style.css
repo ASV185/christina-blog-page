@@ -213,6 +213,30 @@ footer span .up-to-the-top-arrow {
   margin: 10px;
 }
 
+.blog-header h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 70px;
+  font-weight: 800;
+  opacity: 0.9;
+}
+
+.blog-header h2 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.blog-header h3 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.author-photo-section {
+  margin-left: 390px;
+  margin-right: 390px;
+}
+
 @media (max-width: 768px) {
   .travel-icon-section {
     display: none;
