@@ -272,6 +272,17 @@ footer span .up-to-the-top-arrow {
   margin-bottom: 20px;
 }
 
+.social-media-section {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.social-media-section .social-media-img-section {
+  margin-left: 475px;
+  margin-right: 475px;
+}
+
 footer .blog-footer {
   font-family: "Ubuntu", sans-serif;
 }
