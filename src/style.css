@@ -221,7 +221,7 @@ footer span .up-to-the-top-arrow {
   font-weight: 600;
 }
 
-.blog-header .main-navbar .nav-item:hover {
+.blog-header .main-navbar .nav-link:hover {
   border-left: 3px solid #0a58ca;
   color: var(--primary-color);
 }
