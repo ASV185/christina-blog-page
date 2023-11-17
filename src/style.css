@@ -219,10 +219,11 @@ footer span .up-to-the-top-arrow {
   font-weight: 500;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
+  color: black;
 }
 
 .blog-header .main-navbar .nav-link:hover {
-  border-left: 3px solid #0a58ca;
+  border-left: 3px solid black;
   color: var(--primary-color);
 }
 
