@@ -213,20 +213,9 @@ footer span .up-to-the-top-arrow {
   margin: 10px;
 }
 
-.blog-header .main-navbar .nav-link {
-  font-size: 17px;
-  margin: 7px;
-  font-weight: 500;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  color: black;
+.blog-header {
+  align-items: center;
 }
-
-.blog-header .main-navbar .nav-link:hover {
-  border-left: 3px solid black;
-  color: var(--primary-color);
-}
-
 .blog-header h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 70px;
@@ -244,16 +233,9 @@ footer span .up-to-the-top-arrow {
 .blog-header h3 {
   font-family: "Noto Sans", sans-serif;
   font-weight: 400;
-  font-size: 25px;
-}
-
-.blog-header h4 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 70px;
-  font-weight: 700;
   font-size: 15px;
-  opacity: 0.5;
-  text-transform: uppercase;
+  text-transform: capitalize;
+  opacity: 0.7;
 }
 
 .blog-article p {
