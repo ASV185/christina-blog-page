@@ -63,13 +63,13 @@ h2 {
 
 .travel-icon {
   padding: 20px;
-  background-color: #e9ecef;
+  background-color: var(--secondary-color);
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid var(--primary-color);
 }
 
 .featured-blog-section .blog:hover {
-  background-color: #e9ecef;
+  background-color: var(--secondary-color);
 }
 
 .featured-blog-section img {
