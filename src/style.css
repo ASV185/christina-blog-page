@@ -246,6 +246,15 @@ footer span .up-to-the-top-arrow {
   font-size: 25px;
 }
 
+.blog-header h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  font-size: 15px;
+  opacity: 0.5;
+  text-transform: uppercase;
+}
+
 .blog-article p {
   font-family: "Ubuntu", sans-serif;
   font-weight: 400;
