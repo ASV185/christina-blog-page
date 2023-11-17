@@ -265,9 +265,27 @@ footer .blog-footer {
   font-weight: 700;
 }
 
+@media (min-width: 768px) {
+  .blog-header img {
+    display: block;
+    margin: 0 auto;
+    max-width: 800px;
+    max-height: 800px;
+  }
+}
+
 @media (max-width: 768px) {
   .travel-icon-section {
     display: none;
+  }
+
+  .blog-header h1 {
+    font-size: 45px;
+  }
+
+  .blog-header h2 {
+    font-size: 12px;
+    margin-left: 22px;
   }
 
   .blog-article p {
