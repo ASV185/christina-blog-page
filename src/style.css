@@ -3,7 +3,7 @@
   --secondary-color: #e9ecef;
 }
 
-nav .container-fluid .navbar-brand {
+.navbar-brand {
   font-family: "Pacifico", cursive;
   font-size: larger;
   color: var(--secondary-color);
