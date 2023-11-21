@@ -259,9 +259,13 @@ footer span .up-to-the-top-arrow {
   font-weight: 700;
 }
 
-.social-media-section .social-media-img-section {
+.social-media-section {
   margin-left: 475px;
   margin-right: 475px;
+}
+
+.social-media-section ul li {
+  list-style: none;
 }
 
 footer .blog-footer {
