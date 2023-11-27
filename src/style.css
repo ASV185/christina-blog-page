@@ -3,6 +3,10 @@
   --secondary-color: #e9ecef;
 }
 
+.navbar {
+  font-family: "Poppins", sans-serif;
+}
+
 .navbar-brand {
   font-family: "Pacifico", cursive;
   font-size: larger;
