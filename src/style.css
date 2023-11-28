@@ -3,10 +3,10 @@
   --secondary-color: #e9ecef;
 }
 
-.navbar {
+.navbar ul li a {
   font-family: "Poppins", sans-serif;
   color: rgb(27, 27, 27);
-  font-size: 15px;
+  font-size: 10px;
 }
 
 .navbar-brand {
@@ -279,6 +279,12 @@ footer .blog-footer {
   font-weight: 700;
 }
 
+@media (max-width: 576px) {
+  .second-navbar {
+    display: none;
+  }
+}
+
 @media (min-width: 768px) {
   .blog-header img {
     display: block;
@@ -289,6 +295,10 @@ footer .blog-footer {
 }
 
 @media (max-width: 768px) {
+  .larger-navbar {
+    display: none;
+  }
+
   .travel-icon-section {
     display: none;
   }
@@ -310,7 +320,7 @@ footer .blog-footer {
 
 @media (max-width: 991.98px) {
   .navbar li a {
-    margin: 5px;
+    margin: 7px;
     padding: 0;
   }
 
