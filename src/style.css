@@ -256,6 +256,10 @@ footer .blog-footer {
   .second-navbar {
     display: none;
   }
+
+  .header-paragraph h1 {
+    font-size: 40px;
+  }
 }
 
 @media (min-width: 768px) {
