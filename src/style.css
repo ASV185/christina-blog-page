@@ -293,6 +293,10 @@ footer .blog-footer {
     margin-left: 20px;
     margin-right: 20px;
   }
+
+  .contact-section h5 .social-media {
+    font-size: 7px;
+  }
 }
 
 @media (max-width: 991.98px) {
