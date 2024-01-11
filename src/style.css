@@ -262,6 +262,14 @@ footer .blog-footer {
   }
 }
 
+@media (min-width: 576px) {
+  .about-section {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
 @media (min-width: 768px) {
   .blog-header img {
     display: block;
@@ -379,5 +387,32 @@ footer .blog-footer {
 
   .images-of-places-visited-section {
     display: none;
+  }
+
+  .about-section p {
+    font-size: 25px;
+  }
+
+  .about-section h2 {
+    font-size: 50px;
+  }
+
+  .about-section h3 {
+    font-size: 47px;
+  }
+
+  .contact-section h4 {
+    font-size: 35px;
+  }
+
+  .contact-section h5 {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
   }
 }
