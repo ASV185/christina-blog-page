@@ -413,6 +413,5 @@ footer .blog-footer {
 @media (max-width: 1199.98px) {
   .grid {
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
   }
 }
