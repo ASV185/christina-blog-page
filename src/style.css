@@ -11,8 +11,8 @@
 }
 
 .navbar-brand {
-  font-family: "Pacifico", cursive;
-  font-size: larger;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
   color: var(--secondary-color);
 }
 
@@ -28,9 +28,9 @@ p {
 }
 
 h1 {
-  font-family: "Libre Baskerville", serif;
+  font-family: "DM Serif Display", serif;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 h2 {
@@ -144,6 +144,7 @@ h2 {
 
 .about-section h2 {
   font-family: "DM Serif Display", serif;
+  font-weight: 500;
 }
 
 .about-section h3 {
