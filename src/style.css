@@ -39,23 +39,22 @@ h2 {
   color: var(--accent-color);
 }
 
+.header-section {
+  max-width: 1512px;
+  background-color: #ceadab;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(192, 112, 41, 0.3)),
+    url("../images/christina-1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: left;
+  padding: 300px 0;
+}
+
 .header-section .main-paragraph {
   font-size: 20px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   color: var(--accent-color);
-}
-
-.header-section img {
-  max-width: 100%;
-}
-
-.header-section img:hover {
-  filter: grayscale(70%);
-}
-
-.header-section .sea-of-galilee {
-  border-radius: 2% 5% 65% 30%;
 }
 
 .travel-icon-section {
