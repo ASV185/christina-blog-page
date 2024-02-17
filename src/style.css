@@ -39,6 +39,10 @@ h2 {
   color: var(--accent-color);
 }
 
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+
 .header-section {
   max-width: 1512px;
   background-color: #ceadab;
@@ -67,10 +71,6 @@ h2 {
 
 .featured-blog-section .blog img:hover {
   transform: scale(1.075);
-}
-
-.featured-blog-section h3 {
-  font-family: "Poppins", sans-serif;
 }
 
 .christian-group-section {
