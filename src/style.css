@@ -22,10 +22,15 @@ p {
   font-family: "Merriweather", serif;
 }
 
+header small {
+  font-size: 40px;
+}
+
 h1 {
-  font-family: "DM Serif Display", serif;
+  font-family: "Merriweather", serif;
   font-size: 65px;
   font-weight: 400;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
