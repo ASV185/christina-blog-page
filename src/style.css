@@ -73,29 +73,14 @@ h2 {
   font-family: "Poppins", sans-serif;
 }
 
-.missionary-trip {
-  border-radius: 50%;
-}
-
-.travel-places-section {
-  margin: 20px;
-  font-family: "Merriweather", serif;
-}
-
-.travel-places-section h5 {
-  font-size: 17px;
-}
-
-.donate-section img {
-  border-radius: 20px;
-}
-
-.place-img:hover {
-  padding: 20px;
-}
-
-.images-of-places-visited-section .card-img {
-  max-width: 700px;
+.christian-group-section {
+  max-width: 1512px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(0, 0, 0, 0.4)),
+    url("../images/christian-group.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  padding: 200px 0;
 }
 
 .blog-image-section {
