@@ -1,6 +1,6 @@
 :root {
   --primary-color: black;
-  --secondary-color: #e9ecef;
+  --secondary-color: #f5dfde;
   --accent-color: rgb(27, 27, 27);
 }
 
@@ -13,11 +13,6 @@
 .navbar-brand {
   font-family: "Dancing Script", cursive;
   font-size: 30px;
-  color: var(--secondary-color);
-}
-
-nav .cross-icon {
-  background-color: var(--secondary-color);
 }
 
 p {
@@ -55,21 +50,6 @@ h2 {
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   color: var(--accent-color);
-}
-
-.travel-icon-section {
-  padding: 25px 120px;
-}
-
-.travel-icon-section h5 {
-  font-family: "Merriweather", serif;
-}
-
-.travel-icon {
-  padding: 20px;
-  background-color: var(--secondary-color);
-  border-radius: 50%;
-  border: 2px solid var(--primary-color);
 }
 
 .featured-blog-section .blog:hover {
