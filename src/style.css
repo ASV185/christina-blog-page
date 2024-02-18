@@ -7,7 +7,7 @@
 .navbar ul li a {
   font-family: "Poppins", sans-serif;
   color: var(--accent-color);
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .navbar-brand {
