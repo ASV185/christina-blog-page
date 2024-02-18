@@ -114,13 +114,18 @@ h3 {
   cursor: pointer;
 }
 
-.about-section h2 {
-  font-family: "DM Serif Display", serif;
-  font-weight: 500;
+.follow-message-section {
+  max-width: 1512px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.2)),
+    url("../images/christina-3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: center;
+  padding: 300px;
 }
 
-.about-section .social-media {
-  font-size: 20px;
+.follow-message-section {
+  text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.8);
 }
 
 footer {
