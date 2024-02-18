@@ -100,20 +100,18 @@ h3 {
   margin: 25px;
 }
 
-.blog-section {
-  width: 550px;
-  height: 750px;
-  padding: 10px;
+.blog-image-section .blog-button {
+  font-family: "DM Serif Display", serif;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px 7px;
+  text-decoration: none;
+  color: black;
 }
 
-.blog-section .blog:hover {
+.blog:hover {
   background-color: var(--secondary-color);
   cursor: pointer;
-}
-
-.blog-image-section h4 {
-  font-family: "Poppins", sans-serif;
-  font-size: 25px;
 }
 
 .about-pic {
