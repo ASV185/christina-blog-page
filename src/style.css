@@ -30,7 +30,6 @@ h1 {
   font-family: "Dancing Script", cursive;
   font-size: 85px;
   font-weight: 400;
-  text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.8);
 }
 
 h1 span {
@@ -69,6 +68,10 @@ h3 {
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   color: var(--accent-color);
+}
+
+.header-section h1 {
+  text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.8);
 }
 
 .featured-blog-section .blog:hover {
