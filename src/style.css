@@ -112,9 +112,18 @@ h3 {
   color: black;
 }
 
+.blog-image-section .blog img {
+  border-radius: 5px;
+}
+
 .blog:hover {
   background-color: var(--secondary-color);
   cursor: pointer;
+}
+
+h4 {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
 }
 
 footer {
