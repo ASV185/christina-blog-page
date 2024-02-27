@@ -58,6 +58,11 @@ h3 {
   font-family: "Poppins", sans-serif;
 }
 
+h4 {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
 .header-section {
   max-width: 1512px;
   background-color: var(--accent-color);
@@ -132,20 +137,17 @@ h3 {
   cursor: pointer;
 }
 
-h4 {
-  font-family: "Dancing Script", cursive;
-  font-size: 30px;
+.instagram-section img {
+  transition: scaleX ease-in-out 9s;
+}
+
+.instagram-section img:hover {
+  transform: scaleX(1.15);
 }
 
 footer {
   font-family: "Poppins", sans-serif;
   text-align: center;
-}
-
-footer span .up-to-the-top-arrow {
-  position: fixed;
-  bottom: 40px;
-  right: 50px;
 }
 
 .instagram-link {
