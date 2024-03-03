@@ -236,6 +236,40 @@ footer .blog-footer {
   font-weight: 700;
 }
 
+.blockquote p {
+  font-family: "Lato", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.red-text {
+  color: red;
+}
+
+.underlined-text {
+  text-decoration: underline;
+}
+
+.see-other-blogs-heading {
+  color: black;
+  font-size: 27px;
+  font-weight: 600;
+  font-family: "Libre Baskerville", serif;
+}
+
+.other-blog-link {
+  color: black;
+  font-size: 27px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: "Libre Baskerville", serif;
+}
+
+.other-blog-link:hover {
+  color: #f5325c;
+  text-decoration: underline;
+}
+
 @media (max-width: 576px) {
   .second-navbar {
     display: none;
