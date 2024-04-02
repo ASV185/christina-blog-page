@@ -124,8 +124,6 @@ h4 {
 .blog-image-section {
   border: 1px solid --primary-color;
   border-radius: 10px;
-  padding: 40px;
-  margin: 25px;
 }
 
 .blog-image-section .blog-button {
