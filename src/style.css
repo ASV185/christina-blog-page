@@ -1,7 +1,7 @@
 :root {
   --primary-color: black;
-  --secondary-color: #f5dfde;
-  --accent-color: #cca3a1;
+  --secondary-color: #e0d1bc;
+  --accent-color: #aa9b84;
 }
 
 .container {
@@ -71,8 +71,8 @@ h4 {
 .header-section {
   max-width: 1512px;
   background-color: var(--accent-color);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgb(192, 112, 41, 0.3)),
-    url("../images/christina-1.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgb(192, 112, 41, 0.1)),
+  url("../images/christina-1.png");
   background-repeat: no-repeat;
   background-size: contain;
   text-align: left;
@@ -146,6 +146,7 @@ h4 {
 
 .blog:hover {
   background-color: var(--secondary-color);
+  color: white;
   cursor: pointer;
 }
 
