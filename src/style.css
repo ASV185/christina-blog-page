@@ -140,6 +140,15 @@ h4 {
 .instagram-section img:hover {
   transform: scaleX(1.15);
 }
+.first-footer-section {
+  max-width: 1512px; 
+  background-size: cover;
+  text-align: right;
+}
+
+.social-media-section img{
+ padding-top: 200px;
+}
 
 footer {
   font-family: "Poppins", sans-serif;
