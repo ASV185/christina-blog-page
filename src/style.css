@@ -78,14 +78,6 @@ h4 {
   padding-right: 70px;
 }
 
-.my-story-image-section img:hover {
-  transform: rotate(7deg);
-}
-
-.featured-blog-section .blog:hover {
-  background-color: var(--secondary-color);
-}
-
 .featured-blog-section img {
   border-radius: 10px;
 }
