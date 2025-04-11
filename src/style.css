@@ -1,7 +1,6 @@
 :root {
   --primary-color: black;
-  --secondary-color: #e0d1bc;
-  --accent-color: #aa9b84;
+  --accent-color: rgb(36, 33, 33);
 }
 
 .container {
@@ -120,8 +119,6 @@ h4 {
 }
 
 .blog:hover {
-  background-color: var(--secondary-color);
-  color: white;
   cursor: pointer;
 }
 
