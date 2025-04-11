@@ -5,7 +5,7 @@
 }
 
 .container {
-  max-width: 1400px;
+  max-width: 1390px;
   margin: 0 auto;
 }
 
@@ -70,24 +70,7 @@ h4 {
 
 .header-section {
   max-width: 1512px;
-  background-color: var(--accent-color);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgb(192, 112, 41, 0.1)),
-  url("../images/christina-1.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  text-align: left;
-  padding: 300px 0;
-}
-
-.header-section .main-paragraph {
-  font-size: 20px;
-  font-weight: 500;
-  font-family: "Poppins", sans-serif;
-  color: rgb(29, 29, 29);
-}
-
-.header-section h1 {
-  text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.8);
+  background-size: cover;
 }
 
 .my-story-paragraph-section {
