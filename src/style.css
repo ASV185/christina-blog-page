@@ -96,7 +96,7 @@ h4 {
 
 .christian-group-section {
   max-width: 1512px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(0, 0, 0, 0.4)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgb(0, 0, 0, 0.1)),
     url("../images/christian-group.png");
   background-repeat: no-repeat;
   background-size: cover;
